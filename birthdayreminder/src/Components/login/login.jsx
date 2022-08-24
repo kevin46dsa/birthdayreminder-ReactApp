@@ -55,7 +55,7 @@ const Login = () => {
 		if (Object.keys(errorPage).length === 0) {
 			AuthService.login(data.email, data.password)
 				.then(() => {
-					navigate('/dashboard');
+					navigate('/home');
 					window.location.reload();
 					setSuccess('Logged In successfully!!');
 				})
