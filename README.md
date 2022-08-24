@@ -4,18 +4,15 @@
 <h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Vishwa Shah 
+         width="45" /> I'm Kevin Dsa 
 </h1>
-<p align="center">  <b>ϟ</b> I love Creating new things and currently, I am doing <b>Web Development ϟ </b></p>
-
-🔭 I’m currently working on Web Dev<br>👯 I’m looking to collaborate on Full Stack Developer<br>🤝 I’m looking for help with IT senior developer<br>🌱 I’m currently learning Python, Java, C, C++, Java Script, CSS and HTML<br>💬 Ask me about My Projects and Activities<br>⚡ Fun fact  NASA still uses programs from the 70s in their spacecraft
+<p align="center">  <b>ϟ</b> I love Creating new things ϟ </b></p>
 
 ![](https://komarev.com/ghpvc/?username=9vishwashah&color=orange&style=plastic)
 
 ## 🌐 SOCIALS:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwa-alpesh-shah-9594503214va/) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/9vishwashah) 
 
 
 
@@ -28,7 +25,7 @@
 
 
 # 📊 GITHUB STATS:
-![](https://github-readme-stats.vercel.app/api?username=9vishwashah&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=kevin46dsa&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=9vishwashah&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=9vishwashah&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
