@@ -1,11 +1,12 @@
 import React from "react";
-import logicFunction from "../../data/data";
+
 
 const Homepage = () => {
-    let today = []
+    let today = `${5}`
     let tommrow = []
     const checkBirthday = async (event) => {
-        let Birthday = logicFunction.checkbirthday()
+       // let Birthday = logicFunction.checkbirthday()
+       let Birthday = [10,11]
         today = Birthday[0]
         tommrow = Birthday[1]
       };
