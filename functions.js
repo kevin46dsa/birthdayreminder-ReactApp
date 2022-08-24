@@ -1,7 +1,7 @@
 //TO DO
 //Crud operations
 //getallbirthdates
-should i create all this on client side ??
+//should i create all this on client side ??
 
 
 
@@ -23,7 +23,7 @@ var mailOptions = {
   to: 'myfriend@yahoo.com',
   subject: 'Birthdays Today',
   text: 'Here are friends that have a birthday today'
-  html: '<h1>Welcome</h1><p>That was easy!</p>' // test this out 
+ // html: '<h1>Welcome</h1><p>That was easy!</p>' // test this out 
 };
 
 transporter.sendMail(mailOptions, function(error, info){
@@ -69,10 +69,10 @@ function getCurrentAge(year){
 }
 
 //////////////////////////////////////////////////
-let Data schema = {
-ObjectID: ID
-Email: email
-Password : Hash
+let Dataschema = {
+ObjectID: ID,
+Email: email,
+Password : Hash,
 Birthday: [{
 name:'Kevin', day: 01, month:08, year: 1999
 },{name:'Kevin', day: 01, month:08, year: 1999}]
