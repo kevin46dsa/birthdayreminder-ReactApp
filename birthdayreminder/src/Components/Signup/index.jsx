@@ -21,7 +21,7 @@ const Signup = () => {
 		//checks only if current user is there major checking on dashboard
 		var currentUser = AuthService.getCurrentUser();
 		if (currentUser) {
-			navigate('/dashboard');
+			navigate('/home');
 		}
 	}, []);
 
