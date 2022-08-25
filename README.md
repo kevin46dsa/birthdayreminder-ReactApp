@@ -13,61 +13,55 @@
 ## 🌐 SOCIALS:
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/kevindsa2017">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://leetcode.com/kevin46dsa">
     <img src="https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=Leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href=https://twitter.com/Kevindsaoff">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
-## PROJECTS:
-| Project | Language/Tools/Sevices | Description | Link |
-| --- |:---:| --- | --- |
-| Portfolio Website | ```.css``` ```.js``` ```.html```  | A Portfolio Webpage which consists all the details of Resume, Qualification and Personal Biodata | [Link](https://alpeshdshah.netlify.app/) |
+- :telescope: I’m a student persuing Master's in Computer Science with a deep intrest in building web applications.
+
+- :seedling: Exploring Fullstack Development(MERN).
+
+- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevindsa2017)
 
 
 
 
 # 📊 GITHUB STATS:
 ![](https://github-readme-stats.vercel.app/api?username=kevin46dsa&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=9vishwashah&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=9vishwashah&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kevin46dsa&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin46dsa&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GITHUB TROPHY
-[![trophy](https://github-profile-trophy.vercel.app/?username=9vishwashah&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=9vishwashah&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)<a  /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=kevin46dsa&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=kevin46dsa&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)<a  /></a> </p>
   <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="300" height="auto" />
 
 ## TECH STACK 💻
 #### LANGUAGES
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
-![Lua](https://img.shields.io/badge/-Lua-000?style=for-the-badge&logo=lua)
 
 #### JS FRAMEWORK / LIBRARY
-![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![Threejs](https://img.shields.io/badge/-ThreeJS-000?style=for-the-badge&logo=three.js)
-![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
-
+                                                                                                                             
 #### CSS FRAMEWORK /LIBRARY /PRE - PROCESSOR
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
-![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
-![PostCSS](https://img.shields.io/badge/-PostCSS-000?style=for-the-badge&logo=postcss)
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
 
 #### DESIGN/VISUAL TOOLS
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer)
-![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
@@ -75,8 +69,8 @@
 #### DATABASE/STATE
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx)
-
+![PosgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=PostgreSQL)
+                                                                                                                             
 #### BACKEND
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
@@ -104,4 +98,4 @@
 
 
 ### GITHUB GRAPH ⚡
-<a href="https://github.com/9vishwashah"><img alt="vishwa Shah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=9vishwashah&custom_title=Vishwa's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/kevin46dsa"><img alt="Kevin Dsa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kevin46dsa&custom_title=Kevin's%20Contribution%20Graph&theme=react-dark" /></a>
