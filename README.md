@@ -8,13 +8,21 @@
 </h1>
 <p align="center">  <b>ϟ</b> I love Creating new things ϟ </b></p>
 
-![](https://komarev.com/ghpvc/?username=9vishwashah&color=orange&style=plastic)
+![](https://komarev.com/ghpvc/?username=kevin46dsa&color=orange&style=plastic)
 
 ## 🌐 SOCIALS:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwa-alpesh-shah-9594503214va/) 
-
-
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=Leetcode&logoColor=white" alt="Leetcode Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ## PROJECTS:
 | Project | Language/Tools/Sevices | Description | Link |
