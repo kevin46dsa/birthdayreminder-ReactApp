@@ -1,6 +1,6 @@
 import axios from 'axios';
 import config from '../Config/envVariables';
-const API_URL = `${config.Server_url}auth`;
+const API_URL = `${config.Server_url}/auth`;
 
 //axios call to server
 
