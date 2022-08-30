@@ -22,6 +22,6 @@ the web page offers Secure Login and Sign up that is created using JWT tokens, w
 ### Web Page
 As you can see this is created using REACT, so obviouly we have a web front for this project, that the user can interact with the dashboard add or remove data (Birthdays the user wants to be reminded about). the dash board also displays the same data as the mail where it shows the birthdays today and the following day 
 
-check out REPO : [a link](https://github.com/kevin46dsa/APIbirthdayreminder)
+check out REPO : [APIbirthdayreminder](https://github.com/kevin46dsa/APIbirthdayreminder)
 where i go a little bit more into detail about the server
 
